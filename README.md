@@ -6,4 +6,4 @@
 - Nesse projeto foi utilizado comandos como o map e reduce
 - É possível adicionar e remover as transações sem perder os valores caso a página seja atualizada
 
-<img src="img.png" alt="">
+<img src="Img.png" alt="">
